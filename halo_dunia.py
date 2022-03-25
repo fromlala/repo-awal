@@ -1,2 +1,3 @@
 print "halo dunia"
-print "belajar ai"
+print "belajar ml"
+print "yes"
